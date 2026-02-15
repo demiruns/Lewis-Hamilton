@@ -1,0 +1,47 @@
+* {
+    margin:auto;
+}
+body{
+    text-align: center;
+    background: lightyellow;
+    color: rgb(0, 0, 255);
+}
+header{
+    color: rgb(0, 111, 0);
+    margin-top: 50px;
+    margin-bottom: 25px
+}
+h1{
+    color: black;
+}
+section{
+    background: lightgreen;
+
+}
+img{
+    width:40%;
+    height:40%;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+i{
+    color: grey;
+    opacity: 0.5;
+}
+p{
+    text-align: justify;
+    max-width: 60%;
+}
+footer{
+    margin-top: 15px;
+}
+h3{
+    margin-top: 10px;
+}
+hr{
+    height: 5px;
+    border: none;
+    background: lightgreen;
+    margin-bottom: 10px;
+    max-width: 80%;
+}
